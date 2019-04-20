@@ -35,7 +35,7 @@ Low trade fees.
 
 No middle men.
 
-Dark Version.
+Dark Theme.
 
 
 ```
