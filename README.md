@@ -1,4 +1,4 @@
-## 🚀 ZentaDex 🚀
+## 🚀 Zentadex 🚀
 
 
 ### Zentadex is a decentralized exchange for crypto fully controlled by customer and user.
