@@ -3,6 +3,11 @@
 
 ### Zentadex is a decentralized exchange for crypto fully controlled by customer and user.
 
+##### We are committed to protecting you from centralized exchanges.
+
+![0_y1UzcKxWYhEZ-FpC](https://user-images.githubusercontent.com/40530024/56460535-86458480-63a4-11e9-91ba-c91d1153ca9c.jpg)
+
+
 #### Featur:
 
 ```
